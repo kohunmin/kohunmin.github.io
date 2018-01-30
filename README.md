@@ -1,5 +1,3 @@
-![사진](https://mblogthumb-phinf.pstatic.net/20160913_212/chandong83_1473777024430FaJVi_PNG/image_8384834711473777011081.png?type=w800)
-
 # 고훈민
 
 ![전화](http://kohunmin.github.io/img/telephone.png)
@@ -30,7 +28,41 @@ intellij , git, jira, confluence
 
 ### 와이더 플래닛 ( 2015.05 ~ 현재 )
 Ad Serving Application Developer
-
+* Ad Serving 운영 및 개발 ( 2015.05 ~ 현재 )
+  * 일본 시스템 구축 ( 2017.06 ~ 2017.12 )
+    * 개발 인원 : 2명
+    * 목적 : 일본에서 독립적으로 운영될수 있도록 구축한다.
+  * 일본 시스템 운영 ( 2017.06 ~ 현재 )
+    * 개발 인원 : 2명
+    * 목적 : 일본 캠페인에 대한 분석 및 신규 기능 개발
+  * Java Migration ( 2017.01 ~ 현재 )
+    * 개발 인원 : 4명
+    * 목적 : 성능 향상 , Test 자동화
+    * 사용 기술 : Java ,Spring-boot , Prometheus , Grafana, Logback , MessagePack , Aerospike, Mysql
+    * 개발
+      * Bidder 개발
+      * Tracker 개발 ( win, impression, click , conversion )
+      * 모니터링 시스템 구축 ( prometheus )
+  * Bidder 운영 및 개발  ( 2016.01 ~ )
+    * 운영 인원 : 2명
+    * 목적 : 신규 기능 개발
+  * Bidder Refactoring ( 2016.01 ~ 2016.08 )
+    * 개발 인원 : 1명
+    * 목적 : Code 를 리팩토링하여 연동을 쉽고 빠르게 한다.
+    * 사용 기술 : PHP, nginx, php-fpm, aerospike , mysql
+    * 기존 Lagecy 코드를 제거하는 부분에서 위험성이 많아 새롭게 개발은 진행하였다. Bidder 개발을 통해 로직에 대한 이해도와 php 성능에 향상 방법에 대해 많이 알수 있는 계기가 되었다. 
+  * 외부 연동
+    * Daumkakao 연동 작업 ( 2016.07 )
+    * Smaato 연동 작업 ( 2016.08 )
+    * Baidu Exchange 연동 작업 ( 2015.05 ~ 2015.12 )
+    * Taobao Exchange 연동 작업 ( 2016.01 ~ 2016.03 )
+    * Fluct 연동 작업 ( 2017.10 ~ 2017.12)
+    * Microad 연동 작업 ( 2017.11 ~ )
+  * Bid Optimizer 개발 ( 2017.01 ~ 2017.06 )
+    * 개발인원 : 1명
+    * 목적 : 지표 ( 노출 ,클릭 ) 을 이용하여 Bid 를 효율적으로 할수 있도록 한다.
+    * 사용 기술 : golang, php, mysql
+    * 노출, 클릭의 데이터를 Bid Optimizer 에서 사용할수 있도록 분류하는 batch 개발 , 분류된 data 를 기반으로 알고리즘을 사용하여 bid rate 를 조절할수 있도록 한다.
 
 ### 오픈 SNS ( 2012.04 ~ 2013.11 )
 WEB  개발 , Crawling 개발 , Search 개발
