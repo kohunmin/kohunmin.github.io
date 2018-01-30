@@ -1,3 +1,4 @@
+
 # 고훈민
 
 ![전화](http://kohunmin.github.io/img/telephone.png)
@@ -35,7 +36,7 @@ Ad Serving Application Developer
   * 일본 시스템 운영 ( 2017.06 ~ 현재 )
     * 개발 인원 : 2명
     * 목적 : 일본 캠페인에 대한 분석 및 신규 기능 개발
-  * Java Migration ( 2017.01 ~ 현재 )
+  * Java Migration ( 2017.01 ~ 2017.12 )
     * 개발 인원 : 4명
     * 목적 : 성능 향상 , Test 자동화
     * 사용 기술 : Java ,Spring-boot , Prometheus , Grafana, Logback , MessagePack , Aerospike, Mysql
@@ -43,9 +44,7 @@ Ad Serving Application Developer
       * Bidder 개발
       * Tracker 개발 ( win, impression, click , conversion )
       * 모니터링 시스템 구축 ( prometheus )
-  * Bidder 운영 및 개발  ( 2016.01 ~ )
-    * 운영 인원 : 2명
-    * 목적 : 신규 기능 개발
+  * Bidder 운영 및 개발  ( 2016.01 ~ 현재)
   * Bidder Refactoring ( 2016.01 ~ 2016.08 )
     * 개발 인원 : 1명
     * 목적 : Code 를 리팩토링하여 연동을 쉽고 빠르게 한다.
