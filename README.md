@@ -12,29 +12,27 @@
 
 ![twitter](http://kohunmin.github.io/img/twitter.png) https://twitter.com/khm1024
 
-***
 
-### 보유기술
-#### language
+## 보유기술
+### language
 java , golang, php
 #### Platform
 spring, phalcon , scrapy , jquery
-#### Software
+### Software
 mysql , redis , aerospike , jenkins,  supervisord, crontab , rsync , gearman , syslog-ng , nginx, php-fpm , grafana , prometheus , git , maven
-#### system
+### system
 Linux , Mac , Cloud ( Google Clude Engine , Biaud Cloud Engine )
-#### tool
+### tool
 intellij , git, jira, confluence
 
-***
 
-### 경력
-*** 
-#### 와이더 플래닛 ( 2015.05 ~ 현재 )
+## 경력
+
+### 와이더 플래닛 ( 2015.05 ~ 현재 )
 Ad Serving Application Developer
 
-***
-#### 오픈 SNS ( 2012.04 ~ 2013.11 )
+
+### 오픈 SNS ( 2012.04 ~ 2013.11 )
 WEB  개발 , Crawling 개발 , Search 개발
 * Opnnion Mining Platform ( 2012.09 ~ 2013.01 )
   * 개발인원 : 10명
@@ -53,9 +51,8 @@ WEB  개발 , Crawling 개발 , Search 개발
     * 수집 글 필터링 기능 적용 ( 주소, 전화번호, 제목, 단어별 감성 평가 지수 )
 
 
-***
 
-### 교육
+## 교육
 
 * 2003 ~ 2006 소사고등학교 졸업
   * 자료구조, 컴퓨터구조, 프로그래밍언어론, 운영체제, 컴파일러, 화일처리, UML , 리눅스 프로그래밍
@@ -64,9 +61,8 @@ WEB  개발 , Crawling 개발 , Search 개발
   * Java . Oracle & Jdbc , Spring , Ibatis , Android
 
 
-***
 
-### 수상내역
+## 수상내역
 * 2010 창의적 종합설계 경진대회 참가상 - 한국산업기술진흥원
 * 2009 Capstone Designe 경진대회 우수상  - 순천향대학교
 * 2009 Smart Design Camp 금상 - 한국산업기술진흥원
