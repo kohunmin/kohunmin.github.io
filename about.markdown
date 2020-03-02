@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 # kohunmin ( 고훈민 )
 
 ![전화](http://kohunmin.github.io/img/telephone.png)
