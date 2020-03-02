@@ -29,6 +29,7 @@ url: "http://kohunmin.github.io" # the base hostname & protocol for your site, e
 twitter_username: khm1024
 github_username:  kohunmin
 linkedin_username:  khmsoul
+google_analytics: UA-138873579-1
 
 # Build settings
 theme: minima
